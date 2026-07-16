@@ -1,3 +1,6 @@
+Link to video explanation:
+https://youtu.be/SY7YUi_vshk 
+
 # CIS_5_Assignment_4_Winter_2026
 
 **Functions & Parameter Passing: Employee Performance Scores**
